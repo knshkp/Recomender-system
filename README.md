@@ -3,3 +3,6 @@ In this i made my own recommender system that uses the h and m data in this I ma
 # Watching time by the recommendor system recomend that
 # Netflix ~ 75%
 # Youtube ~ 50%
+# Dataset link
+~ https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data
+
